@@ -1,3 +1,3 @@
-Just some data..
+# MoZEES battery days 2019 - data and files
 
-A new comment inside the readme file has now been made by me (tutor/boss).
+This repository consists of files intended for use in the battery course on the MoZEES battery days 2019 at IFE.
